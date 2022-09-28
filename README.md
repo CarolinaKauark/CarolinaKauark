@@ -8,8 +8,10 @@ Bem vindo(a) ao meu GitHub! Fique a vontade para explorar e entrar em contato co
 ◉ Sou apaixonada por lógica, por colaborar e por praias 🌴
 
 
-
-### 🇬🇧 Hi there,I am Carolina Kauark, Full Stack Web Development Student at Trybe! 🚀 (She/Her)
+<details>
+ <summary> 🇬🇧 English here</summary>
+ 
+### Hi there,I am Carolina Kauark, Full Stack Web Development Student at Trybe! 🚀 (She/Her)
 Welcome to my GitHub! Feel free to explore and contact me 😊
 
 ◉ Hey, call me Carol. I am <strong>Full Stack web developer</strong> 🚀 and graduated in architecture and urbanism!
@@ -17,7 +19,7 @@ Welcome to my GitHub! Feel free to explore and contact me 😊
 ◉ Currently, I am a monitor - Summer of Instruction - at Trybe!
 
 ◉ I'm passionate about logic, collaboration and beaches 🌴
-
+</details>
 
 
 <div align="center">
