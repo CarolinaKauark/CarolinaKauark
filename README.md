@@ -1,4 +1,4 @@
-## 🇧🇷 Olá,sou Carolina Kauark, estudante de desenvolvedora web Full Stack na Trybe! 🚀 (ela/dela)
+### 🇧🇷 Olá,sou Carolina Kauark, estudante de desenvolvedora web Full Stack na Trybe! 🚀 (ela/dela)
 Bem vindo(a) ao meu GitHub! Fique a vontade para explorar e entrar em contato comigo 😊 
 
 ◉ Sou Carolina, Sou <strong>Full Stack web developer</strong> 🚀 formada em arquitetura e urbanismo!
@@ -9,7 +9,7 @@ Bem vindo(a) ao meu GitHub! Fique a vontade para explorar e entrar em contato co
 
 
 
-## 🇬🇧 Hi there,I am Carolina Kauark, Full Stack Web Development Student at Trybe! 🚀 (She/Her)
+### 🇬🇧 Hi there,I am Carolina Kauark, Full Stack Web Development Student at Trybe! 🚀 (She/Her)
 Welcome to my GitHub! Feel free to explore and contact me 😊
 
 ◉ Hey, call me Carol. I am <strong>Full Stack web developer</strong> 🚀 and graduated in architecture and urbanism!
@@ -38,6 +38,8 @@ Welcome to my GitHub! Feel free to explore and contact me 😊
   <a href="https://eslint.org/" target="_blank" rel="noreferrer"><img align="center" height="40" width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original-wordmark.svg" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img align="center" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" /></a>
+   <img align="center" alt="Carolina-node" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJs">
+  <img align="center" alt="Carolina-express" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="ExpressJs">
   
 <!-- <img align="center" alt=Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
