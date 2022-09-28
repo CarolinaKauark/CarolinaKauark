@@ -1,5 +1,12 @@
 ## Hi there,I am Carolina Kauark, Full Stack Web Development Student at Trybe! 🚀 (She/Her)
 Welcome to my GitHub!
+Feel free to explore and contact me :)
+
+◉ Hey, call me Carol. I am graduated in architecture and urbanism and now <strong>Full Stack web developer</strong>. 🚀
+
+◉ Currently, I am a monitor - Summer of Instruction - at Trybe!
+
+◉ I'm passionate about logic, collaboration and beaches 🌴
 
 <div align="center">
   <a href="https://github.com/CarolinaKauark">
