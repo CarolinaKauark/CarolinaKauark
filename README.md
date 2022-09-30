@@ -1,7 +1,7 @@
 ### 🇧🇷 Olá,sou Carolina Kauark, estudante de desenvolvedora web Full Stack na Trybe! 🚀 (ela/dela)
 Bem vindo(a) ao meu GitHub! Fique a vontade para explorar e entrar em contato comigo 😊 
 
-◉ Sou Carolina, Sou <strong>Full Stack web developer</strong> 🚀 formada em arquitetura e urbanismo!
+◉ Sou Carolina, <strong>Full Stack web developer</strong> 🚀 formada em arquitetura e urbanismo!
  
 ◉ Atualmente, sou monitora - Summer de instrução - na Trybe!
 
